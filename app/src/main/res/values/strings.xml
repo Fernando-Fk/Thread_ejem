@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Thread Examble</string>
+    <string name="hilo_ejecutado">prueba de hilo</string>
+</resources>
